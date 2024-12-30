@@ -1,0 +1,49 @@
+﻿C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(517,5): warning MSB8028: 중간 디렉터리(x64\Debug\)에 다른 프로젝트(character.vcxproj)에서 공유하는 파일이 포함되어 있습니다.  이로 인해 잘못된 정리 및 다시 빌드 동작이 수행될 수 있습니다.
+  draw.c
+C:\김소진\1학년 2학기\프랩\termp\ca\character\draw.c(122,12): warning C4101: 'j' :참조되지 않은 지역 변수입니다.
+C:\김소진\1학년 2학기\프랩\termp\ca\character\draw.c(143,12): warning C4101: 'j' :참조되지 않은 지역 변수입니다.
+C:\김소진\1학년 2학기\프랩\termp\ca\character\draw.c(170,12): warning C4101: 'j' :참조되지 않은 지역 변수입니다.
+C:\김소진\1학년 2학기\프랩\termp\ca\character\draw.c(322,12): warning C4101: 'j' :참조되지 않은 지역 변수입니다.
+C:\김소진\1학년 2학기\프랩\termp\ca\character\draw.c(342,12): warning C4101: 'j' :참조되지 않은 지역 변수입니다.
+  main.c
+C:\김소진\1학년 2학기\프랩\termp\ca\character\main.c(155,64): warning C4020: 'draw_character': 실제 매개 변수가 너무 많습니다.
+C:\김소진\1학년 2학기\프랩\termp\ca\character\main.c(159,63): warning C4020: 'draw_character': 실제 매개 변수가 너무 많습니다.
+C:\김소진\1학년 2학기\프랩\termp\ca\character\main.c(190,64): warning C4020: 'draw_character': 실제 매개 변수가 너무 많습니다.
+C:\김소진\1학년 2학기\프랩\termp\ca\character\main.c(194,63): warning C4020: 'draw_character': 실제 매개 변수가 너무 많습니다.
+C:\김소진\1학년 2학기\프랩\termp\ca\character\main.c(776,68): warning C4020: 'draw_character': 실제 매개 변수가 너무 많습니다.
+C:\김소진\1학년 2학기\프랩\termp\ca\character\main.c(806,67): warning C4020: 'draw_character': 실제 매개 변수가 너무 많습니다.
+C:\김소진\1학년 2학기\프랩\termp\ca\character\main.c(664,14): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getch. See online help for details.
+C:\김소진\1학년 2학기\프랩\termp\ca\character\main.c(1021,68): warning C4020: 'draw_character': 실제 매개 변수가 너무 많습니다.
+C:\김소진\1학년 2학기\프랩\termp\ca\character\main.c(1051,67): warning C4020: 'draw_character': 실제 매개 변수가 너무 많습니다.
+C:\김소진\1학년 2학기\프랩\termp\ca\character\main.c(908,14): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getch. See online help for details.
+C:\김소진\1학년 2학기\프랩\termp\ca\character\main.c(1145,9): warning C4101: 'i' :참조되지 않은 지역 변수입니다.
+C:\김소진\1학년 2학기\프랩\termp\ca\character\main.c(1165,9): warning C4101: 'i' :참조되지 않은 지역 변수입니다.
+C:\김소진\1학년 2학기\프랩\termp\ca\character\main.c(1187,9): warning C4101: 'i' :참조되지 않은 지역 변수입니다.
+C:\김소진\1학년 2학기\프랩\termp\ca\character\main.c(1207,9): warning C4101: 'i' :참조되지 않은 지역 변수입니다.
+C:\김소진\1학년 2학기\프랩\termp\ca\character\main.c(1291,13): warning C4996: 'kbhit': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _kbhit. See online help for details.
+C:\김소진\1학년 2학기\프랩\termp\ca\character\main.c(1293,18): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getch. See online help for details.
+C:\김소진\1학년 2학기\프랩\termp\ca\character\main.c(1340,13): warning C4996: 'kbhit': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _kbhit. See online help for details.
+C:\김소진\1학년 2학기\프랩\termp\ca\character\main.c(1342,18): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getch. See online help for details.
+C:\김소진\1학년 2학기\프랩\termp\ca\character\main.c(1393,25): warning C4013: 'erase_cursor'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+C:\김소진\1학년 2학기\프랩\termp\ca\character\main.c(1386,13): warning C4996: 'kbhit': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _kbhit. See online help for details.
+C:\김소진\1학년 2학기\프랩\termp\ca\character\main.c(1387,18): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getch. See online help for details.
+C:\김소진\1학년 2학기\프랩\termp\ca\character\main.c(1389,22): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getch. See online help for details.
+C:\김소진\1학년 2학기\프랩\termp\ca\character\main.c(1457,17): warning C4996: 'kbhit': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _kbhit. See online help for details.
+C:\김소진\1학년 2학기\프랩\termp\ca\character\main.c(1458,22): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getch. See online help for details.
+C:\김소진\1학년 2학기\프랩\termp\ca\character\main.c(1468,17): warning C4996: 'kbhit': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _kbhit. See online help for details.
+C:\김소진\1학년 2학기\프랩\termp\ca\character\main.c(1469,22): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getch. See online help for details.
+C:\김소진\1학년 2학기\프랩\termp\ca\character\main.c(1479,17): warning C4996: 'kbhit': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _kbhit. See online help for details.
+C:\김소진\1학년 2학기\프랩\termp\ca\character\main.c(1480,22): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getch. See online help for details.
+C:\김소진\1학년 2학기\프랩\termp\ca\character\main.c(1490,17): warning C4996: 'kbhit': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _kbhit. See online help for details.
+C:\김소진\1학년 2학기\프랩\termp\ca\character\main.c(1491,22): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getch. See online help for details.
+C:\김소진\1학년 2학기\프랩\termp\ca\character\main.c(1616,55): warning C4020: 'draw_character': 실제 매개 변수가 너무 많습니다.
+C:\김소진\1학년 2학기\프랩\termp\ca\character\main.c(1617,60): warning C4020: 'draw_character': 실제 매개 변수가 너무 많습니다.
+C:\김소진\1학년 2학기\프랩\termp\ca\character\main.c(1620,56): warning C4020: 'draw_character': 실제 매개 변수가 너무 많습니다.
+C:\김소진\1학년 2학기\프랩\termp\ca\character\main.c(1621,61): warning C4020: 'draw_character': 실제 매개 변수가 너무 많습니다.
+C:\김소진\1학년 2학기\프랩\termp\ca\character\main.c(1630,13): warning C4996: 'kbhit': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _kbhit. See online help for details.
+C:\김소진\1학년 2학기\프랩\termp\ca\character\main.c(1631,17): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getch. See online help for details.
+C:\김소진\1학년 2학기\프랩\termp\ca\character\main.c(1634,22): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getch. See online help for details.
+  func.c
+C:\김소진\1학년 2학기\프랩\termp\ca\character\func.c(8,5): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  코드를 생성하고 있습니다...
+  character.vcxproj -> C:\김소진\1학년 2학기\프랩\termp\ca\x64\Debug\block.exe
